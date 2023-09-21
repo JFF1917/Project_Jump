@@ -3113,3 +3113,1093 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.09.21-03.56.49:455][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_springRoll_Auto4
 [2023.09.21-03.56.49:455][209]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_2000_springRoll_Auto4FFE13E664F11898F84C068A26BCFDE55.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_springRoll_Auto4.uasset'
 [2023.09.21-03.56.49:457][209]LogFileHelpers: Auto-saving content packages took 0.167
+[2023.09.21-04.01.47:211][713]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.09.21-04.01.47:225][713]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.09.21-04.01.47:260][715]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.09.21-04.01.52:433][ 25]LogContentBrowser: Attempting asset rename: 新建文件夹 -> WithFood
+[2023.09.21-04.01.52:434][ 25]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.09.21-04.01.54:580][137]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.09.21-04.01.54:601][137]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.09.21-04.01.54:635][139]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.09.21-04.01.58:394][364]LogContentBrowser: Attempting asset rename: 新建文件夹 -> 1200
+[2023.09.21-04.01.58:395][364]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.09.21-04.02.00:080][449]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.09.21-04.02.00:100][449]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.09.21-04.02.00:122][450]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.09.21-04.02.03:462][650]LogContentBrowser: Attempting asset rename: 新建文件夹 -> 1600
+[2023.09.21-04.02.03:462][650]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.09.21-04.02.04:809][715]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.09.21-04.02.04:829][715]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.09.21-04.02.04:847][716]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.09.21-04.02.07:469][874]LogContentBrowser: Attempting asset rename: 新建文件夹 -> 2000
+[2023.09.21-04.02.07:470][874]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.09.21-04.02.36:052][ 79]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Sticks.fbx)
+[2023.09.21-04.02.36:057][ 79]LogFbx: Loading FBX Scene from E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Sticks.fbx
+[2023.09.21-04.02.36:060][ 79]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.21-04.02.40:492][ 79]LogSlate: Window 'FBX导入选项' being destroyed
+[2023.09.21-04.02.40:645][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.40:656][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_BaseColor.Sticks_Material_003_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.02.40:672][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.40:672][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.40:677][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Emissive.Sticks_Material_003_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.40:682][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.40:689][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Roughness.Sticks_Material_003_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.40:736][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.40:744][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Normal.Sticks_Material_003_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.02.40:759][ 79]LogFbx: Display: Triangulating static mesh sticks.001
+[2023.09.21-04.02.40:765][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_Sticks……
+[2023.09.21-04.02.40:771][ 79]LogStaticMesh: Built static mesh [0.00s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks.HollowTable_Food_1200_Sticks
+[2023.09.21-04.02.40:797][ 79]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2023.09.21-04.02.40:852][ 79]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Plates.fbx)
+[2023.09.21-04.02.40:858][ 79]LogFbx: Loading FBX Scene from E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Plates.fbx
+[2023.09.21-04.02.40:862][ 79]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.21-04.02.40:956][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.40:956][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.40:959][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_plate_BaseColor.plate_plate_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.40:966][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.40:971][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_plate_Roughness.plate_plate_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:010][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.41:020][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_plate_Normal.plate_plate_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.02.41:069][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.41:078][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_surface_BaseColor.plate_surface_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:097][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.41:097][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.41:103][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_surface_Emissive.plate_surface_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:107][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.41:115][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_surface_Roughness.plate_surface_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:153][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.41:162][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/plate_surface_Normal.plate_surface_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.02.41:175][ 79]LogFbx: Display: Triangulating static mesh plate
+[2023.09.21-04.02.41:209][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_Plates……
+[2023.09.21-04.02.41:218][ 79]LogStaticMesh: Built static mesh [0.01s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Plates.HollowTable_Food_1200_Plates
+[2023.09.21-04.02.41:240][ 79]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2023.09.21-04.02.41:504][ 79]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_ShaoMai.fbx)
+[2023.09.21-04.02.41:511][ 79]LogFbx: Loading FBX Scene from E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_ShaoMai.fbx
+[2023.09.21-04.02.41:527][ 79]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.21-04.02.41:635][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.41:645][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_BaseColor.ShaoMai_ball_001_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:662][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.41:662][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.41:667][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Emissive.ShaoMai_ball_001_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:671][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.41:678][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Roughness.ShaoMai_ball_001_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.41:713][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.41:724][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Normal.ShaoMai_ball_001_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.02.41:736][ 79]LogFbx: Display: Triangulating static mesh BALL.006
+[2023.09.21-04.02.41:788][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_BALL_006……
+[2023.09.21-04.02.41:812][ 79]LogStaticMesh: Built static mesh [0.03s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_BALL_006.HollowTable_Food_1200_ShaoMai_BALL_006
+[2023.09.21-04.02.41:824][ 79]LogFbx: Display: Triangulating static mesh BALL.016
+[2023.09.21-04.02.41:853][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_BALL_016……
+[2023.09.21-04.02.41:874][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_BALL_016.HollowTable_Food_1200_ShaoMai_BALL_016
+[2023.09.21-04.02.41:883][ 79]LogFbx: Display: Triangulating static mesh BALL.027
+[2023.09.21-04.02.41:913][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_BALL_027……
+[2023.09.21-04.02.41:934][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_BALL_027.HollowTable_Food_1200_ShaoMai_BALL_027
+[2023.09.21-04.02.41:944][ 79]LogFbx: Display: Triangulating static mesh BALL.035
+[2023.09.21-04.02.41:975][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_BALL_035……
+[2023.09.21-04.02.41:995][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_BALL_035.HollowTable_Food_1200_ShaoMai_BALL_035
+[2023.09.21-04.02.42:006][ 79]LogFbx: Display: Triangulating static mesh BALL.040
+[2023.09.21-04.02.42:035][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_BALL_040……
+[2023.09.21-04.02.42:055][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_BALL_040.HollowTable_Food_1200_ShaoMai_BALL_040
+[2023.09.21-04.02.42:103][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.42:114][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_BaseColor.ShaoMai_Skin_001_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:132][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.42:132][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.42:137][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Emissive.ShaoMai_Skin_001_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:147][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.42:151][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Roughness.ShaoMai_Skin_001_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:215][ 79]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.02.42:225][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_BaseColor.ShaoMai_shrimp_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:243][ 79]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.02.42:243][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.42:249][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Emissive.ShaoMai_shrimp_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:260][ 79]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.02.42:263][ 79]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Roughness.ShaoMai_shrimp_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.02.42:280][ 79]LogFbx: Display: Triangulating static mesh shaomai
+[2023.09.21-04.02.42:324][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_shaomai……
+[2023.09.21-04.02.42:339][ 79]LogStaticMesh: Built static mesh [0.01s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_shaomai.HollowTable_Food_1200_ShaoMai_shaomai
+[2023.09.21-04.02.42:352][ 79]LogFbx: Display: Triangulating static mesh shaomai_1
+[2023.09.21-04.02.42:389][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_shaomai_1……
+[2023.09.21-04.02.42:404][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_shaomai_1.HollowTable_Food_1200_ShaoMai_shaomai_1
+[2023.09.21-04.02.42:415][ 79]LogFbx: Display: Triangulating static mesh shaomai_2
+[2023.09.21-04.02.42:454][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_shaomai_2……
+[2023.09.21-04.02.42:467][ 79]LogStaticMesh: Built static mesh [0.01s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_shaomai_2.HollowTable_Food_1200_ShaoMai_shaomai_2
+[2023.09.21-04.02.42:478][ 79]LogFbx: Display: Triangulating static mesh shaomai_3
+[2023.09.21-04.02.42:520][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_shaomai_3……
+[2023.09.21-04.02.42:535][ 79]LogStaticMesh: Built static mesh [0.02s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_shaomai_3.HollowTable_Food_1200_ShaoMai_shaomai_3
+[2023.09.21-04.02.42:546][ 79]LogFbx: Display: Triangulating static mesh shaomai_4
+[2023.09.21-04.02.42:621][ 79]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai_shaomai_4……
+[2023.09.21-04.02.42:648][ 79]LogStaticMesh: Built static mesh [0.03s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_shaomai_4.HollowTable_Food_1200_ShaoMai_shaomai_4
+[2023.09.21-04.02.42:724][ 79]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: ================================================
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: Total job queries 362, among them cache hits 74 (20.44%)
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 123 distinct outputs (43.93%)
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: RAM used: 2.19 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: Shaders Compiled: 171
+[2023.09.21-04.02.43:038][ 84]LogShaderCompilers: Display: Jobs assigned 175, completed 171 (97.71%)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Average time worker was idle: 202.65 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 1.21 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 10.28 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 10.32
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.63 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Jobs were issued in 175 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Average processing rate: 6.42 jobs/sec
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Total thread time: 94.82 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Total thread preprocess time: 6.17 s
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Effective parallelization: 3.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 0.68 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   18 times, average 0.64 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    9 times, average 0.59 sec, max 0.66 sec, min 0.55 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.59 sec, max 0.65 sec, min 0.55 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 0.59 sec, max 0.67 sec, min 0.53 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.91% of total time (compiled   18 times, average 0.68 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.22% of total time (compiled   18 times, average 0.64 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.17% of total time (compiled   12 times, average 0.57 sec, max 0.73 sec, min 0.37 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.63% of total time (compiled    9 times, average 0.59 sec, max 0.66 sec, min 0.55 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.61% of total time (compiled    9 times, average 0.59 sec, max 0.65 sec, min 0.55 sec)
+[2023.09.21-04.02.43:039][ 84]LogShaderCompilers: Display: ================================================
+[2023.09.21-04.02.44:532][161]LogSlate: Window '消息日志' being destroyed
+[2023.09.21-04.02.44:566][161]LogSlate: Window '消息日志' being destroyed
+[2023.09.21-04.03.09:103][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.21-04.03.10:324][580]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.21-04.03.10:367][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.21-04.03.10:390][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.21-04.03.10:413][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.21-04.03.29:879][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.09.21-04.03.31:134][725]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.21-04.03.31:175][725]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_BaseColor.ShaoMai_shrimp_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Emissive.ShaoMai_shrimp_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Roughness.ShaoMai_shrimp_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_BaseColor.ShaoMai_Skin_001_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Emissive.ShaoMai_Skin_001_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Roughness.ShaoMai_Skin_001_Roughness
+	Asset Type: Texture2D
+[2023.09.21-04.03.31:342][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/shrimp_001.shrimp_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:343][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/shrimp_001.shrimp_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:344][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/shrimp_001.shrimp_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:345][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/Skin_002.Skin_002 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:346][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/Skin_002.Skin_002 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:347][725]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/Skin_002.Skin_002 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.03.31:487][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.21-04.03.31:509][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.21-04.03.31:530][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.21-04.03.54:889][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.21-04.03.55:969][203]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.21-04.03.56:011][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.09.21-04.03.56:034][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.21-04.03.56:057][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.21-04.04.01:720][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.21-04.04.02:762][515]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.21-04.04.02:811][515]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_BaseColor.ShaoMai_ball_001_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Emissive.ShaoMai_ball_001_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Normal.ShaoMai_ball_001_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Roughness.ShaoMai_ball_001_Roughness
+	Asset Type: Texture2D
+[2023.09.21-04.04.02:968][515]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/ball_001.ball_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.04.02:969][515]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/ball_001.ball_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.04.02:970][515]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/ball_001.ball_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.04.02:971][515]LogMaterial: Warning: [AssetLog] /Game/Model/HollowTable/WithFood/1200/ball_001.ball_001 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.09.21-04.04.03:073][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.21-04.04.03:096][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.21-04.04.03:115][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.09.21-04.04.08:268][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.21-04.04.09:634][802]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.21-04.04.09:683][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.21-04.04.09:707][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.21-04.04.09:728][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.21-04.05.53:541][429]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Sticks.fbx)
+[2023.09.21-04.05.53:546][429]LogFbx: Loading FBX Scene from E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_Sticks.fbx
+[2023.09.21-04.05.53:549][429]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.21-04.05.56:559][429]LogSlate: Window 'FBX导入选项' being destroyed
+[2023.09.21-04.05.56:704][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.56:714][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_BaseColor.Sticks_Material_003_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.05.56:729][429]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.05.56:729][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.56:736][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Emissive.Sticks_Material_003_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.56:737][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.56:744][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Roughness.Sticks_Material_003_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.56:790][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.56:799][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/Sticks_Material_003_Normal.Sticks_Material_003_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.05.56:811][429]LogFbx: Display: Triangulating static mesh sticks.001
+[2023.09.21-04.05.56:853][429]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2023.09.21-04.05.56:912][429]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_ShaoMai.fbx)
+[2023.09.21-04.05.56:918][429]LogFbx: Loading FBX Scene from E:\MFA\Project 3\Model\Model_Asset\yue\SM_HollowTable_Base\FoodOnTop\HollowTable_1200\Export\HollowTable_Food_1200_ShaoMai.fbx
+[2023.09.21-04.05.56:930][429]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.21-04.05.57:025][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.57:035][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_BaseColor.ShaoMai_ball_001_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:057][429]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.05.57:058][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:063][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Emissive.ShaoMai_ball_001_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:068][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:074][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Roughness.ShaoMai_ball_001_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:112][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.57:122][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_ball_001_Normal.ShaoMai_ball_001_Normal （TFO_BC5, 2048x2048 x1x1x1）（预计所需内存：561.562488 MB），编码速度：Fast
+[2023.09.21-04.05.57:184][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.57:194][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_BaseColor.ShaoMai_Skin_001_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:220][429]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.05.57:220][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:224][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Emissive.ShaoMai_Skin_001_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:231][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:235][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_Skin_001_Roughness.ShaoMai_Skin_001_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:298][429]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.09.21-04.05.57:309][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_BaseColor.ShaoMai_shrimp_BaseColor （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：350.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:326][429]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.09.21-04.05.57:326][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:330][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Emissive.ShaoMai_shrimp_Emissive （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:340][429]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.09.21-04.05.57:345][429]LogTexture: Display: 正在构建纹理：/Game/Model/HollowTable/WithFood/1200/ShaoMai_shrimp_Roughness.ShaoMai_shrimp_Roughness （TFO_AutoDXT, 2048x2048 x1x1x1）（预计所需内存：338.145823 MB），编码速度：Fast
+[2023.09.21-04.05.57:363][429]LogFbx: Display: Triangulating static mesh BALL.027
+[2023.09.21-04.05.57:656][429]LogStaticMesh: Display: 正在构建静态网格体HollowTable_Food_1200_ShaoMai……
+[2023.09.21-04.05.57:761][429]LogStaticMesh: Built static mesh [0.11s] /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai.HollowTable_Food_1200_ShaoMai
+[2023.09.21-04.05.57:846][429]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: ================================================
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Total job queries 390, among them cache hits 78 (20.00%)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Tracking 300 distinct input hashes that result in 123 distinct outputs (41.00%)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: RAM used: 2.32 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Shaders Compiled: 191
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Jobs assigned 195, completed 191 (97.95%)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Average time worker was idle: 363.50 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.21 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 10.28 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 10.32
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.58 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Jobs were issued in 195 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Average processing rate: 6.68 jobs/sec
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Total thread time: 105.01 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Total thread preprocess time: 6.89 s
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Percentage time preprocessing: 6.56%
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Effective parallelization: 3.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.67 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.63 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    9 times, average 0.59 sec, max 0.66 sec, min 0.55 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.59 sec, max 0.65 sec, min 0.55 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 0.59 sec, max 0.67 sec, min 0.53 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.64% of total time (compiled   23 times, average 0.67 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.77% of total time (compiled   23 times, average 0.63 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.88% of total time (compiled   17 times, average 0.55 sec, max 0.73 sec, min 0.37 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.82% of total time (compiled   17 times, average 0.36 sec, max 0.49 sec, min 0.23 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.08% of total time (compiled    9 times, average 0.59 sec, max 0.66 sec, min 0.55 sec)
+[2023.09.21-04.05.58:211][431]LogShaderCompilers: Display: ================================================
+[2023.09.21-04.05.59:707][505]LogSlate: Window '消息日志' being destroyed
+[2023.09.21-04.05.59:721][505]LogSlate: Window '消息日志' being destroyed
+[2023.09.21-04.06.16:276][434]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.09.21-04.06.16:287][434]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.09.21-04.06.16:304][435]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.09.21-04.06.21:164][726]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Texture
+[2023.09.21-04.06.21:164][726]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.09.21-04.06.24:944][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-04.06.25:962][944]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ball_001
+[2023.09.21-04.06.25:962][944]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ball_00101DBE0AA4491E5E907768FABEFE373FF.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ball_001.uasset'
+[2023.09.21-04.06.25:972][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.02 sec (total: 2:00 min)
+[2023.09.21-04.06.26:001][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.09.21-04.06.26:025][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.21-04.06.26:046][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.21-04.06.26:089][944]AssetCheck: New page: 资产保存：ball_001
+[2023.09.21-04.06.26:089][944]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Model/HollowTable/WithFood/1200/Texture/ball_001.ball_001
+[2023.09.21-04.06.31:630][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-04.06.31:709][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ball_001
+[2023.09.21-04.06.31:709][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ball_0014E83A41C48BE6F2E0C1CF594567E6028.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ball_001.uasset'
+[2023.09.21-04.06.32:590][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Material_002
+[2023.09.21-04.06.32:590][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Material_002D5CA350B4917052C6BEC3894E32DDC1D.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Material_002.uasset'
+[2023.09.21-04.06.32:649][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_BaseColor
+[2023.09.21-04.06.32:649][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_ball_001_BaseColor904AF3D14F908B27B2900FA701423C90.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_BaseColor.uasset'
+[2023.09.21-04.06.32:664][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Emissive
+[2023.09.21-04.06.32:664][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_ball_001_EmissiveB3DDB4A543E1D8BD286929B6F89AABF2.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Emissive.uasset'
+[2023.09.21-04.06.32:720][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Normal
+[2023.09.21-04.06.32:720][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_ball_001_Normal3CB389AE483D7209FB807CAC17B21A50.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Normal.uasset'
+[2023.09.21-04.06.32:736][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Roughness
+[2023.09.21-04.06.32:736][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_ball_001_Roughness494FEA6F45B1A2DFF47B80974378672E.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Roughness.uasset'
+[2023.09.21-04.06.32:795][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_BaseColor
+[2023.09.21-04.06.32:795][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_shrimp_BaseColor84EE7DDB4A816D14364EFCAC3A3A94C6.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_BaseColor.uasset'
+[2023.09.21-04.06.32:810][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Emissive
+[2023.09.21-04.06.32:811][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_shrimp_Emissive0ACB11A74F99B8C8DE5DE5B38456A111.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Emissive.uasset'
+[2023.09.21-04.06.32:825][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Roughness
+[2023.09.21-04.06.32:826][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_shrimp_RoughnessC51B17D341B72485A43D56914DB6B4FB.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Roughness.uasset'
+[2023.09.21-04.06.32:884][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_BaseColor
+[2023.09.21-04.06.32:884][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_Skin_001_BaseColor4B08FD3E4D4DD432D2A71D919BE431A5.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_BaseColor.uasset'
+[2023.09.21-04.06.32:901][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Emissive
+[2023.09.21-04.06.32:901][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_Skin_001_Emissive2411E1344D9B18953C98008597314E55.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Emissive.uasset'
+[2023.09.21-04.06.32:916][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Roughness
+[2023.09.21-04.06.32:916][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/ShaoMai_Skin_001_Roughness10965A5640FDC6AE03C458BBDEA594B5.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Roughness.uasset'
+[2023.09.21-04.06.33:772][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/shrimp_001
+[2023.09.21-04.06.33:772][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/shrimp_00142DD37A44CB6C679134E289BDB30B0E0.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/shrimp_001.uasset'
+[2023.09.21-04.06.34:627][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Skin_002
+[2023.09.21-04.06.34:627][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Skin_002C2AC3FF2434B146CDB6247A04EB1FF39.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Skin_002.uasset'
+[2023.09.21-04.06.34:688][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_BaseColor
+[2023.09.21-04.06.34:688][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Sticks_Material_003_BaseColor7D027F2F45509A5BB881A8AAFEA6DFF9.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_BaseColor.uasset'
+[2023.09.21-04.06.34:704][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Emissive
+[2023.09.21-04.06.34:705][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Sticks_Material_003_Emissive52F12E9F4C3DCC79AA33B4976685CAD3.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Emissive.uasset'
+[2023.09.21-04.06.34:765][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Normal
+[2023.09.21-04.06.34:765][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Sticks_Material_003_NormalDE02F8A04EF2499E1176D7A4D74BA43E.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Normal.uasset'
+[2023.09.21-04.06.34:782][251]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Roughness
+[2023.09.21-04.06.34:782][251]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Sticks_Material_003_Roughness6704E7824F084E4535B68592118AD62B.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Roughness.uasset'
+[2023.09.21-04.06.34:800][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.17 sec (total: 2:03 min)
+[2023.09.21-04.06.34:983][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.21-04.06.35:007][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.21-04.06.35:029][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.21-04.06.35:072][251]AssetCheck: New page: 资产保存：多个资产
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_BaseColor.ShaoMai_Skin_001_BaseColor
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Model/HollowTable/WithFood/1200/Texture/Skin_002.Skin_002
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_BaseColor.ShaoMai_shrimp_BaseColor
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Model/HollowTable/WithFood/1200/Texture/Material_002.Material_002
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Model/HollowTable/WithFood/1200/Texture/shrimp_001.shrimp_001
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Normal.ShaoMai_ball_001_Normal
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Roughness.ShaoMai_shrimp_Roughness
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_shrimp_Emissive.ShaoMai_shrimp_Emissive
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Roughness.ShaoMai_ball_001_Roughness
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Roughness.ShaoMai_Skin_001_Roughness
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_Skin_001_Emissive.ShaoMai_Skin_001_Emissive
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_Emissive.ShaoMai_ball_001_Emissive
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/ShaoMai_ball_001_BaseColor.ShaoMai_ball_001_BaseColor
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Model/HollowTable/WithFood/1200/Texture/ball_001.ball_001
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Normal.Sticks_Material_003_Normal
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Roughness.Sticks_Material_003_Roughness
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_Emissive.Sticks_Material_003_Emissive
+[2023.09.21-04.06.35:072][251]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Model/HollowTable/WithFood/1200/Texture/Sticks_Material_003_BaseColor.Sticks_Material_003_BaseColor
+[2023.09.21-04.07.08:186][127]BlueprintLog: New page: 编译BP_HollowTable_Base
+[2023.09.21-04.07.08:260][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.09.21-04.07.44:486][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.21-04.07.44:493][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Map_Main" FILE="../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Level/Map_Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.21-04.07.44:710][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Map_Main_Auto5
+[2023.09.21-04.07.44:710][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/Map_Main_Auto59CB82126476FF1033E4B83B8C7146490.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Level/Map_Main_Auto5.umap'
+[2023.09.21-04.07.44:723][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Map_Main' took 0.257
+[2023.09.21-04.07.44:723][843]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.257
+[2023.09.21-04.07.44:723][843]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actor/RoundTable/BP_HollowTable_Base] ([2] browsable assets)...
+[2023.09.21-04.07.44:767][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base.BP_HollowTable_Base]
+[2023.09.21-04.07.44:767][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/RoundTable/BP_HollowTable_Base]
+[2023.09.21-04.07.44:788][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_Auto5
+[2023.09.21-04.07.44:788][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base_Auto599C25B414F1F19826A290EB45BE3F827.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_Auto5.uasset'
+[2023.09.21-04.07.44:789][843]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actor/RoundTable/BP_HollowTable_Base_L] ([2] browsable assets)...
+[2023.09.21-04.07.44:805][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base_L.BP_HollowTable_Base_L]
+[2023.09.21-04.07.44:805][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/RoundTable/BP_HollowTable_Base_L]
+[2023.09.21-04.07.44:809][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_L_Auto5
+[2023.09.21-04.07.44:809][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base_L_Auto54A915D1F4571144B24198BA867A57901.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_L_Auto5.uasset'
+[2023.09.21-04.07.44:810][843]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actor/RoundTable/BP_HollowTable_Base_M] ([2] browsable assets)...
+[2023.09.21-04.07.44:825][843]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base_M.BP_HollowTable_Base_M]
+[2023.09.21-04.07.44:825][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actor/RoundTable/BP_HollowTable_Base_M]
+[2023.09.21-04.07.44:829][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_M_Auto5
+[2023.09.21-04.07.44:829][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base_M_Auto55DFE83924E97A3716DA9AB91D14B4CA9.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Actor/RoundTable/BP_HollowTable_Base_M_Auto5.uasset'
+[2023.09.21-04.07.44:830][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks] ([1] browsable assets)...
+[2023.09.21-04.07.44:845][843]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks.HollowTable_Food_1200_Sticks]
+[2023.09.21-04.07.44:845][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks]
+[2023.09.21-04.07.44:847][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks_Auto5
+[2023.09.21-04.07.44:847][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/HollowTable_Food_1200_Sticks_Aut3272E1A94459998E66C739A685BC8A74.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks_Auto5.uasset'
+[2023.09.21-04.07.44:848][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai] ([1] browsable assets)...
+[2023.09.21-04.07.44:871][843]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai.HollowTable_Food_1200_ShaoMai]
+[2023.09.21-04.07.44:871][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai]
+[2023.09.21-04.07.44:879][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_Auto5
+[2023.09.21-04.07.44:879][843]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/HollowTable_Food_1200_ShaoMai_AuBA9668134E4D4AC9FA636C82C725E354.tmp' to '../../../../../../GitHub/Project_Jump/Saved/Autosaves/Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai_Auto5.uasset'
+[2023.09.21-04.07.44:880][843]LogFileHelpers: Auto-saving content packages took 0.158
+[2023.09.21-04.07.53:387][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-04.07.53:434][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/RoundTable/BP_HollowTable_Base" FILE="../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base.uasset" SILENT=true
+[2023.09.21-04.07.53:453][909]LogSavePackage: Moving output files for package: /Game/Actor/RoundTable/BP_HollowTable_Base
+[2023.09.21-04.07.53:453][909]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base64C16FCE44FA99D55128D78A6140301E.tmp' to '../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base.uasset'
+[2023.09.21-04.07.53:461][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2:03 min)
+[2023.09.21-04.07.53:464][909]AssetCheck: New page: 资产保存：BP_HollowTable_Base
+[2023.09.21-04.07.53:464][909]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base.BP_HollowTable_Base
+[2023.09.21-04.54.10:335][499]LogDerivedDataCache: C:/Users/Ming Sun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.160 and deleted 0 files with total size 0 MiB. Scanned 3575 files in 3546 folders with total size 96 MiB.
+[2023.09.21-05.21.49:094][ 14]LogSlate: Window 'BP_HollowTable_Base' being destroyed
+[2023.09.21-05.21.49:102][ 14]LogSlate: Window 'BP_HollowTable_Base' being destroyed
+[2023.09.21-05.21.49:108][ 14]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.49:109][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-05.21.52:466][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.09.21-05.21.54:534][212]LogSlate: Window '保存内容' being destroyed
+[2023.09.21-05.21.54:559][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.21-05.21.54:640][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/RoundTable/BP_HollowTable_Base_L" FILE="../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base_L.uasset" SILENT=true
+[2023.09.21-05.21.54:645][212]LogSavePackage: Moving output files for package: /Game/Actor/RoundTable/BP_HollowTable_Base_L
+[2023.09.21-05.21.54:645][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base_LDCF8CC5849D5C23DC73D038952A71C34.tmp' to '../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base_L.uasset'
+[2023.09.21-05.21.54:645][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/RoundTable/BP_HollowTable_Base_M" FILE="../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base_M.uasset" SILENT=true
+[2023.09.21-05.21.54:649][212]LogSavePackage: Moving output files for package: /Game/Actor/RoundTable/BP_HollowTable_Base_M
+[2023.09.21-05.21.54:649][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/BP_HollowTable_Base_M7437C9AC4EB3D5FDE6D6B88AB1D49CEA.tmp' to '../../../../../../GitHub/Project_Jump/Content/Actor/RoundTable/BP_HollowTable_Base_M.uasset'
+[2023.09.21-05.21.54:659][212]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai
+[2023.09.21-05.21.54:659][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/HollowTable_Food_1200_ShaoMaiBB9E14B54C71ED0DD744CFA7EE14B63E.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai.uasset'
+[2023.09.21-05.21.54:661][212]LogSavePackage: Moving output files for package: /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks
+[2023.09.21-05.21.54:661][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/HollowTable_Food_1200_Sticks69BAF9324B6F4030406A6F9D2542AFF6.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks.uasset'
+[2023.09.21-05.21.54:664][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_plate
+[2023.09.21-05.21.54:664][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_1600_plate3D3D142F4E6C93810057B19E44BC2407.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_1600/RoundTable_1600_plate.uasset'
+[2023.09.21-05.21.54:668][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_springRoll
+[2023.09.21-05.21.54:668][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_1600_springRoll797B548148BB3755A49B3F94CCC3884C.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_1600/RoundTable_1600_springRoll.uasset'
+[2023.09.21-05.21.54:671][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_sticks
+[2023.09.21-05.21.54:671][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_1600_sticksE126765F40131067F608BD89E9B3B4DB.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_1600/RoundTable_1600_sticks.uasset'
+[2023.09.21-05.21.54:673][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_plate
+[2023.09.21-05.21.54:673][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_2000_plateE98B29F440594C9D437208AF6DED5B5C.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_2000/RoundTable_2000_plate.uasset'
+[2023.09.21-05.21.54:677][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_springRoll
+[2023.09.21-05.21.54:677][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_2000_springRoll41430AC14E07686ECF6285A32FDDCACA.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_2000/RoundTable_2000_springRoll.uasset'
+[2023.09.21-05.21.54:679][212]LogSavePackage: Moving output files for package: /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_sticks
+[2023.09.21-05.21.54:679][212]LogSavePackage: Moving '../../../../../../GitHub/Project_Jump/Saved/RoundTable_2000_sticks2468EC5340E1A8F7EEC6B3B12C4D819D.tmp' to '../../../../../../GitHub/Project_Jump/Content/Model/RoundTable/RoundTable_2000/RoundTable_2000_sticks.uasset'
+[2023.09.21-05.21.54:692][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2:03 min)
+[2023.09.21-05.21.54:692][212]LogStall: Shutdown...
+[2023.09.21-05.21.54:695][212]LogStall: Shutdown complete.
+[2023.09.21-05.21.54:714][212]LogSlate: Window '内容浏览器2' being destroyed
+[2023.09.21-05.21.54:722][212]LogSlate: Window 'Project_Jump - 虚幻编辑器' being destroyed
+[2023.09.21-05.21.54:803][212]AssetCheck: New page: 资产保存：多个资产
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base_L.BP_HollowTable_Base_L
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/Actor/RoundTable/BP_HollowTable_Base_M.BP_HollowTable_Base_M
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_plate.RoundTable_1600_plate
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_Sticks.HollowTable_Food_1200_Sticks
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/HollowTable/WithFood/1200/HollowTable_Food_1200_ShaoMai.HollowTable_Food_1200_ShaoMai
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_springRoll.RoundTable_2000_springRoll
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_plate.RoundTable_2000_plate
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_2000/RoundTable_2000_sticks.RoundTable_2000_sticks
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_springRoll.RoundTable_1600_springRoll
+[2023.09.21-05.21.54:803][212]LogContentValidation: Display: 正在验证/Script/Engine.StaticMesh /Game/Model/RoundTable/RoundTable_1600/RoundTable_1600_sticks.RoundTable_1600_sticks
+[2023.09.21-05.21.54:805][213]Cmd: QUIT_EDITOR
+[2023.09.21-05.21.54:805][213]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.21-05.21.54:812][213]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.21-05.21.54:812][213]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.21-05.21.54:812][213]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.21-05.21.54:817][213]LogWorld: UWorld::CleanupWorld for Map_Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.54:818][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-05.21.54:818][213]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.21-05.21.54:819][213]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.21-05.21.55:702][213]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.21-05.21.55:702][213]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.21-05.21.55:702][213]LogAudio: Display: Audio Device unregistered from world 'Map_Main'.
+[2023.09.21-05.21.55:712][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.21-05.21.55:713][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.21-05.21.55:726][213]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.21-05.21.55:730][213]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.21-05.21.55:730][213]LogExit: Preparing to exit.
+[2023.09.21-05.21.55:759][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.55:770][213]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.21-05.21.56:771][213]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:774][213]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:776][213]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:777][213]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:778][213]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:779][213]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:780][213]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:781][213]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:782][213]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:783][213]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:784][213]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:785][213]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:786][213]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:787][213]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:788][213]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:789][213]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:791][213]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:792][213]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:793][213]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:794][213]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:795][213]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:796][213]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:797][213]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:798][213]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:799][213]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:800][213]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:801][213]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:802][213]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:803][213]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:804][213]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:805][213]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:806][213]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:808][213]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:809][213]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:810][213]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:811][213]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:812][213]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:813][213]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:814][213]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:815][213]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:817][213]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:818][213]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:819][213]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-05.21.56:823][213]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/GitHub/Project_Jump/Content/]. Aborting watch request...
+[2023.09.21-05.21.56:869][213]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.09.21-05.21.56:886][213]LogExit: Editor shut down
+[2023.09.21-05.21.56:887][213]LogExit: Transaction tracking system shut down
+[2023.09.21-05.21.56:974][213]LogExit: Object subsystem successfully closed.
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: ================================================
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Total job queries 438, among them cache hits 78 (17.81%)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Tracking 360 distinct input hashes that result in 149 distinct outputs (41.39%)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: RAM used: 2.80 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.09%
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Shaders Compiled: 251
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Jobs assigned 251, completed 251 (100.00%)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Average time worker was idle: 285.13 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 1.21 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 10.28 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 10.32
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.29 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Jobs were issued in 251 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Average processing rate: 7.54 jobs/sec
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Total thread time: 134.40 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Total thread preprocess time: 8.85 s
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Percentage time preprocessing: 6.58%
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Effective parallelization: 4.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   26 times, average 0.66 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   26 times, average 0.62 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.58 sec, max 0.67 sec, min 0.49 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.58 sec, max 0.65 sec, min 0.47 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.57 sec, max 0.66 sec, min 0.45 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.68% of total time (compiled   26 times, average 0.66 sec, max 0.92 sec, min 0.43 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.93% of total time (compiled   26 times, average 0.62 sec, max 0.79 sec, min 0.43 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.99% of total time (compiled   20 times, average 0.54 sec, max 0.73 sec, min 0.37 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.58% of total time (compiled   13 times, average 0.58 sec, max 0.67 sec, min 0.49 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.57% of total time (compiled   13 times, average 0.58 sec, max 0.65 sec, min 0.47 sec)
+[2023.09.21-05.21.56:979][213]LogShaderCompilers: Display: ================================================
+[2023.09.21-05.21.56:997][213]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.21-05.21.57:018][213]LogVirtualization: UE::Virtualization was shutdown
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (995)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (991)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module Voice (989)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AddContentDialog (983)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WidgetCarousel (982)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SubobjectEditor (979)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SceneOutliner (977)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (965)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (963)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WebMMedia (961)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (959)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (957)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (955)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module PlanarCut (953)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module CharacterAI (951)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (949)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (947)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (945)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (943)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (941)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (939)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (937)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (935)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module TextureAlignMode (933)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module BspMode (931)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module GeometryMode (929)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (927)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (925)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (923)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module WaveTableEditor (921)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (919)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (917)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module GooglePADEditor (915)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (913)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SequenceRecorder (912)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (909)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module IKRigEditor (907)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module ControlRigEditor (905)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SmartSnapping (903)
+[2023.09.21-05.21.57:027][213]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.09.21-05.21.57:028][213]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.09.21-05.21.57:274][213]MemoryProfiler: Shutdown
+[2023.09.21-05.21.57:274][213]NetworkingProfiler: Shutdown
+[2023.09.21-05.21.57:274][213]LoadingProfiler: Shutdown
+[2023.09.21-05.21.57:274][213]TimingProfiler: Shutdown
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.09.21-05.21.57:274][213]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.09.21-05.21.57:275][213]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.09.21-05.21.57:275][213]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.09.21-05.21.57:275][213]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.09.21-05.21.57:279][213]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.09.21-05.21.57:283][213]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (701)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (695)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (693)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (691)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (687)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module LightMixer (685)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (683)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module UVEditorTools (681)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module UVEditor (679)
+[2023.09.21-05.21.57:524][213]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (677)
+[2023.09.21-05.21.57:525][213]LogOpenImageDenoise: OIDN shutting down
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (675)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (673)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (671)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (669)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MeshLODToolset (667)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module BackChannel (665)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module Iris (663)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (661)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (659)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (657)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (655)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (653)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (652)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (650)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (647)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module DataflowNodes (645)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module DataflowEditor (643)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (641)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (639)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ChaosNiagara (637)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (635)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module FractureEditor (633)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (631)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module AutomationUtils (629)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MediaCompositing (627)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module AlembicImporter (625)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module AlembicLibrary (624)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (621)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MediaPlate (619)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ImgMedia (617)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (613)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (611)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (609)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (607)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (605)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangePipelines (603)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeExport (601)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeMessages (599)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeImport (597)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (595)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeNodes (593)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module PluginBrowser (591)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (589)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SequencerScripting (587)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module StylusInput (585)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (583)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module CryptoKeys (581)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (579)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (577)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (575)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (573)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (571)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeEditor (569)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (567)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (565)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (563)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GLTFImporter (561)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GLTFCore (559)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (557)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module EditorDebugTools (555)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module CurveEditorTools (553)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module TemplateSequence (551)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (549)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module TakeSequencer (547)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module TakeMovieScene (545)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (543)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module InterchangeTests (541)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (539)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module UObjectPlugin (537)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SynthesisEditor (535)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (533)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (531)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (529)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module PluginUtils (527)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (525)
+[2023.09.21-05.21.57:525][213]LogModuleManager: Shutting down and abandoning module GitSourceControl (523)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module DumpGPUServices (521)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (519)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (517)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (515)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ResonanceAudio (513)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (511)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (509)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (507)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ModelingOperators (505)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (503)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ModelingComponents (501)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryFramework (500)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (497)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module MeshModelingTools (495)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module InputDebugging (493)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module DynamicMesh (491)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (489)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GooglePAD (487)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (485)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryCache (483)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (481)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (479)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AssetTags (475)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AudioCapture (473)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (472)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (469)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (467)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AppleImageUtils (465)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AndroidPermission (463)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (461)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (459)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (457)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (455)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module VariantManager (453)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (451)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (449)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module ControlRigSpline (447)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (445)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (443)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (441)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (439)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module Paper2DEditor (437)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.09.21-05.21.57:527][213]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (425)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module PBIK (423)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module FullBodyIK (421)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (419)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module TakeRecorder (418)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module ChaosCaching (415)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (413)
+[2023.09.21-05.21.57:529][213]LogModuleManager: Shutting down and abandoning module UdpMessaging (411)
+[2023.09.21-05.21.57:630][213]LogModuleManager: Shutting down and abandoning module TcpMessaging (409)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (407)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module Niagara (405)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module NiagaraEditor (404)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module NiagaraCore (401)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (399)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module FacialAnimation (397)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module DataValidation (395)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (393)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module ActorSequence (391)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (389)
+[2023.09.21-05.21.57:730][213]LogModuleManager: Shutting down and abandoning module LevelEditor (388)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (387)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (385)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (383)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module MainFrame (381)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module HotReload (380)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module ContentBrowser (376)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module ContentBrowserData (375)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module TreeMap (372)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module Synthesis (369)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (367)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (365)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module SoundFields (363)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module GameplayCameras (361)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module AnimationSharing (359)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module SignificanceManager (357)
+[2023.09.21-05.21.57:736][213]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (355)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (353)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundEditor (351)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ToolMenus (350)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AudioWidgets (348)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (347)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (343)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundEngine (341)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module WaveTable (340)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (338)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (335)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (333)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (331)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (329)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (327)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (325)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module CableComponent (323)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (321)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (320)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (317)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module SignalProcessing (316)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (313)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module IKRig (311)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (309)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ControlRig (307)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module LevelSequence (306)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (303)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.09.21-05.21.57:737][213]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.09.21-05.21.57:738][213]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.09.21-05.21.57:749][213]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.09.21-05.21.57:749][213]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module WmfMedia (112)
+[2023.09.21-05.21.57:751][213]LogModuleManager: Shutting down and abandoning module Media (111)
+[2023.09.21-05.21.57:752][213]LogModuleManager: Shutting down and abandoning module ChaosCloth (108)
+[2023.09.21-05.21.57:752][213]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.09.21-05.21.57:752][213]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.09.21-05.21.57:752][213]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.09.21-05.21.57:753][213]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.09.21-05.21.57:753][213]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.09.21-05.21.57:783][213]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.09.21-05.21.57:783][213]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.09.21-05.21.57:783][213]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B889BA1-4B84-494F-D205-BAB99CDC06A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=49ef3b15401b138573a198aa5f567405%7C3e8a99b5766d4e92b95406f639ef61f1%7C96c41a84-db13-4b84-bf0b-d1208f24ca55&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (88)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (86)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (84)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (82)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (78)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module NiagaraShader (76)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (74)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module PixWinPlugin (72)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module ChunkDownloader (68)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.09.21-05.21.57:793][213]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.09.21-05.21.57:794][213]LogXGEController: Cleaning working directory: C:/Users/Ming Sun/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.09.21-05.21.57:794][213]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.09.21-05.21.57:795][213]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.09.21-05.21.57:797][213]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.09.21-05.21.57:982][213]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.09.21-05.21.58:064][213]LogExit: Exiting.
+[2023.09.21-05.21.58:073][213]Log file closed, 09/21/23 13:21:58
